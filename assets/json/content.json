@@ -1,0 +1,33 @@
+{
+  "cards": [
+    {
+      "shop": "Central Coffee",
+      "reward": "Free Latte",
+      "total": 10,
+      "punches": 3
+    },
+    {
+      "shop": "Downtown Bakery",
+      "reward": "Free Croissant",
+      "total": 5,
+      "punches": 4
+    }
+  ],
+  "history": [
+    {
+      "shop": "Books & Co",
+      "reward": "10% off next purchase",
+      "date": "2023-10-01T12:00:00Z"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Central Coffee - Main St",
+      "address": "123 Main St, Cityville"
+    },
+    {
+      "name": "Downtown Bakery",
+      "address": "456 Market St, Cityville"
+    }
+  ]
+}
